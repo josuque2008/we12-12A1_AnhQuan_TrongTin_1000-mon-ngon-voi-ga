@@ -17,3 +17,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ignore Git installer saved in project folder
+Git-*.exe
