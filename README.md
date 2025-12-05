@@ -1,31 +1,51 @@
 # BAI HK1
 
-This is the project folder containing:
-- `bai lam.html`
-- `css.css`
-- Several image assets
+1. CHỦ ĐỀ
 
-How to upload this project to GitHub (summary):
+Tên đề tài: Website giới thiệu 1000 món gà
+Dự án xây dựng một trang web sử dụng template W3.CSS (Band Template) để giới thiệu sự phong phú của ẩm thực Việt Nam thông qua hàng trăm món ăn được chế biến từ gà. Trang web tập trung vào việc trình bày hình ảnh, mô tả món ăn, quy trình chế biến và kết nối người dùng thông qua form liên hệ.
+Website được tùy biến dựa trên template gốc, thay đổi giao diện, màu sắc, nội dung, hình ảnh để phù hợp chủ đề ẩm thực.
 
-Option A — Command line (recommended):
-1. Install Git for Windows: https://git-scm.com/download/win
-2. Open PowerShell and set your identity:
-   git config --global user.name "Your Name"
-   git config --global user.email "you@example.com"
-3. Initialize and push:
-   cd "C:\\Users\\Home\\Desktop\\BAI HK1"
-   git init
-   git add .
-   git commit -m "Initial commit"
-   # Create repository on GitHub (see web or use gh CLI), then:
-   git remote add origin https://github.com/yourusername/your-repo.git
-   git branch -M main
-   git push -u origin main
+2. CÁCH CHẠY WEBSITE
 
-Option B — GitHub website (no local git required):
-1. Go to https://github.com and sign in.
-2. Create a new repository (Repository -> New).
-3. On the repository page, click "Add file" -> "Upload files" and drag your project files.
-4. Commit the changes and view files on GitHub.
+Truy cập GitHub Pages của nhóm qua link:
+https://henrydo-web.github.io/web12-12A1_Minh-Huy-Bao-Chau-Thao-Nguyen_BTS-Album/
 
-If you want I can provide the exact commands for your environment, or walk you through using the GitHub web UI.
+Trang web sẽ tự động tải giao diện chính gồm:
+
+Header điều hướng
+
+Danh sách các món gà
+
+Thông tin giới thiệu
+
+Hình ảnh minh họa
+
+Form liên hệ
+
+Website chạy hoàn toàn trên trình duyệt, không cần backend, không cần cài đặt thêm.
+
+Mọi tài nguyên (CSS, JS, ảnh) được tải từ repository GitHub và CDN.
+
+3. THÀNH VIÊN NHÓM
+
+Đào Trọng Tín – Lớp 12A1
+
+Phạm Đình Anh Quân – Lớp 12A1
+
+4. PHÂN CÔNG CÔNG VIỆC
+4.1 Nhiệm vụ từng thành viên
+Thành viên	Nhiệm vụ chính
+Đào Trọng Tín	Lập sitemap, chọn font – màu; thu thập hình ảnh; dựng HTML theo template; chỉnh CSS.
+Phạm Đình Anh Quân	Xử lý JavaScript cơ bản (carousel, menu); tối ưu responsive; kiểm thử giao diện; hỗ trợ hoàn thiện báo cáo.
+4.2 Quy trình thực hiện
+
+Bước 1: Nghiên cứu template W3.CSS, chọn chủ đề “1000 món gà”.
+
+Bước 2: Thiết kế sitemap, palette màu (đen – trắng), chọn font Rubik 80s Fade và Ubuntu.
+
+Bước 3: Dựng HTML khung, thay toàn bộ nội dung/ảnh liên quan đến món gà, viết CSS bổ sung.
+
+Bước 4: Kiểm thử trên mobile, sửa lỗi bố cục, tối ưu ảnh và thêm JS cơ bản.
+
+Bước 5: Deploy GitHub Pages và hoàn thiện báo cáo.
