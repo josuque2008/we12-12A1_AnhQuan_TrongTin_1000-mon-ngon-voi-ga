@@ -9,7 +9,7 @@ Website được tùy biến dựa trên template gốc, thay đổi giao diện
 2. CÁCH CHẠY WEBSITE
 
 Truy cập GitHub Pages của nhóm qua link:
-https://henrydo-web.github.io/web12-12A1_Minh-Huy-Bao-Chau-Thao-Nguyen_BTS-Album/
+https://josuque2008.github.io/we12-12A1_AnhQuan_TrongTin_1000-mon-ngon-voi-ga/
 
 Trang web sẽ tự động tải giao diện chính gồm:
 
